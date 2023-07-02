@@ -1,3 +1,5 @@
+# We annotated this dataset with Labelme and the json 
+
 # A Benchmark for Visual Identification of Defective Solar Cells in Electroluminescence Imagery
 
 This repository provides a dataset of solar cell images extracted from
